@@ -1,0 +1,17 @@
+import java.util.*;
+class PrintThreeNames{
+public static void main(String[] args ){
+Scanner sc =  new Scanner(System.in);
+System.out.println("enter the first Name ");
+String name1 = sc.nextLine();
+System.out.println("enter the second Name "); 
+String name2 = sc.nextLine();
+System.out.println("enter the third Name ");
+String name3 = sc.nextLine();
+System.out.println(name1);
+System.out.println(name2);
+System.out.println(name3);
+	}
+}
+
+
